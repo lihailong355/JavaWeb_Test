@@ -13,6 +13,7 @@ public class Hello {
 
     public static void aa() {
         System.out.println("aaaaaa");
+        System.out.println("aaaaaa");
         HtmlFileGlobal html = new HtmlFileGlobal();
     }
 
